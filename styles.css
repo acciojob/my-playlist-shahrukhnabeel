@@ -1,1 +1,40 @@
 /*  your css code here. If applicable */
+h1,h2{
+    text-align: center;
+}
+body{
+    background-color: rgb(204, 204, 204)
+}
+
+a{
+    text-decoration: none;
+}
+.player_one{
+   
+   border: 2px solid black;
+ padding: 20px;
+ width: 60%;
+ margin: 20px auto;
+ border-radius: 10px;
+ background-color: white;
+
+
+}
+.list{
+    background-color: white;
+    border-radius: 10px;
+    padding: 2%;
+    border: 2px solid black;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    text-align: left;
+}
+video{
+    width: 100%;
+    
+}
+audio{
+    width: 100%;
+    margin: 10px;
+}
